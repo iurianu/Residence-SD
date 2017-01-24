@@ -1,0 +1,72 @@
+<script type="application/ld+json">
+{
+	"@context" : "http://schema.org/",
+	"@type" : "Product",
+	"name" : "Condo For Rent Near BTS Chidlom",
+	"@id" : "#5781",
+	"offers" : 
+	{ 	
+		"@context" : "http://schema.org/",
+		"@type" : "Offer",
+		"name" : " Condo For Rent Near BTS Chidlom for ฿130,000 Per Month",			
+		"priceSpecification" : 
+		{
+			"@type" : "PriceSpecification",
+			"price" : "130000",	
+			"priceCurrency" : "THB"
+		},
+		"businessFunction" : "http://purl.org/goodrelations/v1#Sell",
+		"itemOffered" : 
+		{
+			"@type" : "Residence",
+			"name" : "Condo For Rent Near BTS Chidlom",
+			"url" : "https://www.bangkokfinder.com/properties/7047-Condo-For-Rent-3-Bedrooms-Chidlom",
+			"additionalType" : "http://www.productontology.org/id/Condominium",
+			"description" : "Condominium 3 bedrooms 3 bathrooms  250 sqm. great facilities including tennis courts, swimming pool, gardens, and many other amenities. can walk to chidlom and lots of shopping centers.",
+			"image" : "https://e5fefd70e3ae1d18d17d4fee-jnmremqz4r5k.netdna-ssl.com/wp-content/uploads/WPL/7047/thimg_12C-4-_800x600.jpg",
+			"additionalProperty" : [
+				{	"@type" : "PropertyValue",
+					"name" : "Number of Bedrooms",
+					"value" : "3"
+				},
+				{	"@type" : "PropertyValue",
+					"name" : "Number of Bathrooms",
+					"value" : "3"
+				},	
+				{	"@type" : "PropertyValue",
+					"name" : "Parking Spots",
+					"value" : "1"
+				},
+				{	"@type" : "PropertyValue",
+					"name" : "area",
+					"value" : "250",
+					"unitCode": "SQM"
+				}
+			],
+		"containsPlace" : ["Swimming Pool", "Garden", "Balcony", "Parking", "Tennis Court"]
+		},
+		"potentialAction" : [
+			{"@type" : "InteractAction",
+			"name" : "Contact Us",
+			"url" : "https://www.bangkokfinder.com/contact-us"
+			},
+			{"@type" : "ShareAction",
+			"name" : "Share This on Facebook",
+			"target" : "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bangkokfinder.com%2Fproperties%2F7047-Condo-For-Rent-3-Bedrooms-Chidlom"
+			},	
+			{"@type" : "ShareAction",
+			"name" : "Share This on Google",
+			"target" : "https://plus.google.com/share?url=https%3A%2F%2Fwww.bangkokfinder.com%2Fproperties%2F7047-Condo-For-Rent-3-Bedrooms-Chidlom"
+			},			
+			{"@type" : "ShareAction",
+			"name" : "Share This on Twitter",
+			"target" : "https://twitter.com/share?url=https%3A%2F%2Fwww.bangkokfinder.com%2Fproperties%2F7047-Condo-For-Rent-3-Bedrooms-Chidlom"
+			},	
+			{"@type" : "ShareAction",
+			"name" : "Share This on Pinterest",
+			"target" : "http://pinterest.com/pin/create/link/?url=https%3A%2F%2Fwww.bangkokfinder.com%2Fproperties%2F7047-Condo-For-Rent-3-Bedrooms-Chidlom&amp;media=https://e5fefd70e3ae1d18d17d4fee-jnmremqz4r5k.netdna-ssl.com/wp-content/uploads/WPL/7047/thimg_12C-4-_300x300.jpg&amp;description=Condo For Rent Near BTS Chidlom"
+			}				
+		]
+	}
+}
+</script>
